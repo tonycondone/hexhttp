@@ -22,7 +22,7 @@ setup(
     install_requires=[
         'requests==2.31.0',
         'wafw00f==2.2.0',
-        'urllib3==2.2.1',
+        'urllib3==2.8.0',
         'notify-py==0.3.42',
         'pync==2.0.3',
         'bs4',
