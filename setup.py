@@ -20,7 +20,7 @@ setup(
     include_package_data=True,
     url="https://github.com/c0dejump/HExHTTP/",
     install_requires=[
-        'requests==2.31.0',
+        'requests==2.33.0',
         'wafw00f==2.2.0',
         'urllib3==2.2.1',
         'notify-py==0.3.42',
